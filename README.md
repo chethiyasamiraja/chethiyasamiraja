@@ -27,14 +27,14 @@
 <p align="center">
   <a href="https://github.com/TanyaKaushi/github-readme-stats">
     <img
-      align="center"
+      align="left"
           height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethiyasamiraja&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/TanyaKaushi/github-readme-stats">
     <img
-      align="center"
+      align="crnter"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=chethiyasamiraja&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=dracula"
     />
@@ -43,6 +43,9 @@
 <br>
 <br>
 
+
+<br>
+<p/>
 ### 🛠 &nbsp;Languages and Tools
 
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
