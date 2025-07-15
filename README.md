@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanyaKaushi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<h3><img src="https://user-images.githubusercontent.com/68680779/148364086-0189eb64-d168-46cc-a195-72dca2dd2490.png" width="35"> Software Engineering Undergraduate at SLIIT  
+<h3><img src="https://user-images.githubusercontent.com/68680779/148364086-0189eb64-d168-46cc-a195-72dca2dd2490.png" width="35"> Software Engineering graduate at SLIIT  
 </h3>
-<h3>Full Stack Developer 
+<h3>Software Engineer - .net|Angular|Winform|Webform 
   <img src="https://user-images.githubusercontent.com/68680779/148377200-06a37784-9efc-4dbe-9e12-a1527279edd6.png" width="35"></h3>
  <br>
 <h3 align="left">Connect with me:</h3
